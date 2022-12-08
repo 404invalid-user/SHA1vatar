@@ -1,0 +1,27 @@
+{
+    "name": "avatargenerator",
+    "version": "1.0.0",
+    "description": "a default avatar generator inspired by github's",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/404invalid-user/avatargenerator.git"
+    },
+    "keywords": [
+        "avatar"
+    ],
+    "author": "404invalid-user (invaliduser@bruvland.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/404invalid-user/avatargenerator/issues"
+    },
+    "homepage": "https://github.com/404invalid-user/avatargenerator#readme",
+    "dependencies": {
+        "canvas": "^2.10.2",
+        "express": "^4.18.2",
+        "sha1": "^1.1.1"
+    }
+}
