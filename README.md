@@ -1,4 +1,4 @@
-# avatargenerator
+# SHA1vatar
 a default avatar generator inspired by github's way of generating their "Identicons"
 
 
